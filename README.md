@@ -1,56 +1,77 @@
-<h1 align="center">
-  Hey there, I'm Qaid!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-</h1>
+<h1 align="center">Hi there, I'm Qaid — aka Qaidx93</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=00F7FF&width=435&lines=Web+Developer;UI%2FUX+Designer;Coding+is+Love;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;Web+Designer+%7C+Creative+Mind;Coding+is+Art+%E2%9C%A8;Building+for+the+web+with+love" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Qaidx93&label=VISITORS&color=0bf&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/Qaidx93?label=Followers&style=social"/>
-  <img src="https://img.shields.io/github/stars/Qaidx93?label=Stars&style=social"/>
+  <img src="https://komarev.com/ghpvc/?username=Qaidx93&label=Profile+Views&color=0bf&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/Qaidx93?style=flat-square&color=blue&logo=github"/>
+  <img src="https://img.shields.io/github/stars/Qaidx93?style=flat-square&color=yellow&logo=github"/>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🧑‍💻 About Me
 
-- **Name:** Qaid  
-- **Role:** Developer, Designer  
-- **From:** Kurdistan  
-- **Love:** Coding, Gaming, Minimal UI  
-- **Languages:** HTML, CSS, JavaScript, C++, Node.js  
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qaidx93&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaidx93&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
-</div>
+- **Name:** Qaid
+- **Location:** Kurdistan
+- **Languages:** Kurdish, Arabic, English  
+- **Role:** Full Stack Web Developer & Designer  
+- **Focus:** Creating fast, clean, and responsive websites  
+- **Fun Fact:** I believe design is just as important as code  
+- **Current Goal:** Building modern link-in-bio tools
 
 ---
 
-### ⚡ Contribution Graph
+## 🔧 Skills & Technologies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qaidx93&theme=github-compact&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,bootstrap,tailwind,nodejs,github,git,vscode,figma" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://discord.com/users/yourdiscordid"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Qaidx93&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaidx93&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
 ---
 
-> _“Build what you love, love what you build.”_  
-> — **Qaidx93**
+## ⚡ GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qaidx93&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 📁 Featured Projects
+
+- [**Link in Bio Website**](https://qaid.github.io) — Personal stylish landing page  
+- [**Modern Portfolio (Coming Soon)**](https://github.com/Qaidx93) — Clean and mobile responsive  
+- [**More Projects**](https://github.com/Qaidx93?tab=repositories)
+
+---
+
+## ✨ Tools I Use
+
+```yaml
+💻 Code Editors:
+  - Visual Studio Code
+  - Replit (Mobile)
+
+🎨 Design:
+  - Figma
+  - Canva
+
+🌐 Deployment:
+  - GitHub Pages
+  - Vercel (optional)
+
+💬 Communication:
+  - Discord
+  - Telegram
