@@ -1,4 +1,4 @@
-<h2 align="center">QAiDx93</h2>
+<h1 align="center">Welcome to QAiDx93's World</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=QAiDx93&label=Visitors&color=grey&style=flat-square" alt="Visitors"/>
@@ -8,40 +8,67 @@
 
 ---
 
-### Overview
+### About Me
 
-- **Stars earned:** `165`
-- **Commits this year:** `271`
-- **Pull requests:** `13`
-- **Issues opened:** `1`
-- **Repositories contributed to:** `13`
+Hi, I'm **QAiDx93** — a passionate developer who loves turning ideas into real, working code.  
+From creative bots to clean backend systems, I build for impact and elegance.
+
+- **Coding Since:** 2022  
+- **Languages:** JavaScript, Python, TypeScript  
+- **Tech Stack:** Node.js, Discord.js, Express, MongoDB, HTML/CSS  
+- **Focus Areas:** Discord bots, automation, clean UI/UX  
 
 ---
 
-### Contributions
+### GitHub Summary
+
+- **Stars Earned:** `165`
+- **Commits (2025):** `271`
+- **Pull Requests:** `13`
+- **Issues Opened:** `1`
+- **Repos Contributed To:** `13`
+
+---
+
+### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QAiDx93&theme=github-dark&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QAiDx93&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=QAiDx93&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QAiDx93&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-### Profile Summary
+### Trophies
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QAiDx93&theme=github_dark" alt="Summary Card"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=QAiDx93&theme=tokyonight&no-frame=true&row=1" alt="Trophies"/>
 </p>
 
 ---
 
-### Languages & Tools
+### Tools I Love
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QAiDx93&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,mongodb,express,discord,github,html,css" />
 </p>
 
 ---
 
+### Connect With Me
+
 <p align="center">
-  <i>Thanks for stopping by!</i>
+  <a href="https://github.com/QAiDx93"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:qaidx93.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+---
+
+<p align="center"><i>“Build with clarity, test with purpose, ship with pride.”</i></p>
