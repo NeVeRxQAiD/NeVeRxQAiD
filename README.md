@@ -99,8 +99,8 @@
 <h2 align="center">📫 Contact Me</h2>
 
 <p align="center">
-  <a href="mailto:qaidx93.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/QAiDx93"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://discord.com/users/1038589192839630849"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.snapchat.com/add/xzanyarrrrrrrrr?share_id=p-sdXR-ksEo&locale=en-US"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/></a>
 </p>
 
 ---
