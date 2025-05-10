@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="140" />
+  <img src="https://cdn.discordapp.com/attachments/1196559809881841675/1370556748922097724/3ba62930e8aef88b64ea9e7a18e1ec54.jpg?ex=681fedf0&is=681e9c70&hm=dea9eda12c1ca7afb456d3d1e27be29d4ee2fb0c980df2ecccec3965f4fbfc10&" width="140" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <h2 align="center">✨ About Me</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://cdn.discordapp.com/attachments/1196559809881841675/1370557392173011005/966b5685dabfd979b040ec887a874a95.gif?ex=681fee8a&is=681e9d0a&hm=3aa946b365ffe4eb36f882ee4f8c1ced387e9abbf8c408c52ef1d8d2e25013aa&" width="400" />
 </p>
 
 <div align="center">
