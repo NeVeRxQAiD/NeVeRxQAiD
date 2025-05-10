@@ -14,52 +14,11 @@
 
 ---
 
-<h2 align="center">✨ About Me</h2>
+<h2 align="center"> <img src="https://cdn.discordapp.com/emojis/1370559713372012595.gif?v=1&size=48&quality=lossless "/> </h2>
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1196559809881841675/1370557392173011005/966b5685dabfd979b040ec887a874a95.gif?ex=681fee8a&is=681e9d0a&hm=3aa946b365ffe4eb36f882ee4f8c1ced387e9abbf8c408c52ef1d8d2e25013aa&" width="400" />
 </p>
-
-<div align="center">
-
-**🔧 Alias:** `QAiDx93`  
-**💼 Role:** Full-Stack & Automation Developer  
-**🧠 Focus:** Discord Bots • Automation • Backend Systems • UI/UX Design  
-**⚡ Languages:** JavaScript • TypeScript • Python  
-**🧰 Stack:** Node.js • MongoDB • Express • Discord.js • EJS  
-**🎨 UI Love:** Responsive layout, smooth UX, logical code  
-**🚀 Mission:** Build powerful, clean, intuitive systems that help communities and automate complexity.
-
-<i>“Code like art. Build with purpose.”</i>
-
-</div>
-
----
-
-<h2 align="center">📂 Featured Projects</h2>
-
-<table align="center">
-  <tr>
-    <th>🚀 Project</th>
-    <th>📝 Description</th>
-    <th>🧩 Stack</th>
-  </tr>
-  <tr>
-    <td><b>TicketTool</b></td>
-    <td>Elegant support ticket system with embeds</td>
-    <td>Discord.js v13</td>
-  </tr>
-  <tr>
-    <td><b>AutoMod</b></td>
-    <td>Rule-based moderation engine for auto enforcement</td>
-    <td>Node.js • JSON</td>
-  </tr>
-  <tr>
-    <td><b>CommandCore</b></td>
-    <td>Scalable command handler with logging and cooldowns</td>
-    <td>Discord.js • TypeScript</td>
-  </tr>
-</table>
 
 ---
 
