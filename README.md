@@ -5,13 +5,15 @@
   <img src="https://img.shields.io/github/followers/Qaidx93?label=FOLLOWERS&style=flat-square" />
   <img src="https://img.shields.io/github/stars/Qaidx93?label=STARS&style=flat-square" />
 </p>
+---
 
 ---
 
-### About Me
-- **Name**: Qaid  
-- **Role**: Developer & Web Designer  
-- **Hobbies**: Coding, Gaming, and Designing  
+## 🔧
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,bootstrap,tailwind,nodejs,github,git,vscode,figma" />
+</p>
 
 ---
 
@@ -32,5 +34,5 @@
 
 ### Contact Me
 
-- Discord: `yourdiscord#0000`
-- Telegram: [@yourusername](https://t.me/yourusername)
+- Discord: `93zc`
+- Telegram: [xzanyarrrrrrrrr](https://www.snapchat.com/add/xzanyarrrrrrrrr?share_id=kmBFw0bQBls&locale=en-US)
