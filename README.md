@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/cbaNUhGzDts8ZX9mHs/giphy.gif" width="140" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="160" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <h2 align="center">✨ About Me</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="360" />
 </p>
 
 <div align="center">
@@ -108,9 +108,14 @@
 <h2 align="center">⚡ Aesthetic Mode</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="180" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/l46CbEqVRPptxTCOY/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/2wY0uqphFgRs5bPWIY/giphy.gif" width="180" />
 </p>
 
 <p align="center">
