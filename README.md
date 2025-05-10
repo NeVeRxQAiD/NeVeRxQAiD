@@ -14,15 +14,11 @@
 
 ---
 
-<h2 align="center"> <img src="https://cdn.discordapp.com/emojis/1370559713372012595.gif?v=1&size=48&quality=lossless "/> </h2>
+<h2 align="center"> <img src="https://cdn.discordapp.com/emojis/1370559713372012595.gif?v=1&size=48&quality=lossless "/> GitHub Stats</h2>
 
-<p align="center">
+<h1 align="center">
   <img src="https://cdn.discordapp.com/attachments/1196559809881841675/1370557392173011005/966b5685dabfd979b040ec887a874a95.gif?ex=681fee8a&is=681e9d0a&hm=3aa946b365ffe4eb36f882ee4f8c1ced387e9abbf8c408c52ef1d8d2e25013aa&" width="400" />
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
+</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=QAiDx93&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
