@@ -35,7 +35,7 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center"> <img src="https://cdn.discordapp.com/emojis/1296441816362651681.gif?v=1&size=48&quality=lossless "/> GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=QAiDx93&theme=darkhub&no-frame=true&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
@@ -51,7 +51,7 @@
 
 ---
 
-<h2 align="center">📫 Contact Me</h2>
+<h2 align="center"> Contact Me</h2>
 
 <p align="center">
   <a href="https://discord.com/users/1038589192839630849"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
