@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGpP4lxGGgK5CBW/giphy.gif" width="90" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="140" />
 </p>
 
 <p align="center">
@@ -16,12 +16,19 @@
 
 <h2 align="center">✨ About Me</h2>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
 <div align="center">
 
 **🔧 Alias:** `QAiDx93`  
-**🧠 Passion:** Discord Bots • Automation Tools • UI/UX Logic  
-**⚡ Languages:** JavaScript • Python • TypeScript  
-**🧰 Stack:** Node.js • MongoDB • Express • Discord.js  
+**💼 Role:** Full-Stack & Automation Developer  
+**🧠 Focus:** Discord Bots • Automation • Backend Systems • UI/UX Design  
+**⚡ Languages:** JavaScript • TypeScript • Python  
+**🧰 Stack:** Node.js • MongoDB • Express • Discord.js • EJS  
+**🎨 UI Love:** Responsive layout, smooth UX, logical code  
+**🚀 Mission:** Build powerful, clean, intuitive systems that help communities and automate complexity.
 
 <i>“Code like art. Build with purpose.”</i>
 
@@ -38,19 +45,19 @@
     <th>🧩 Stack</th>
   </tr>
   <tr>
-    <td><b>TempVoice</b></td>
-    <td>Dynamic VC manager for Discord servers</td>
-    <td>Discord.js • Node</td>
-  </tr>
-  <tr>
     <td><b>TicketTool</b></td>
     <td>Elegant support ticket system with embeds</td>
     <td>Discord.js v13</td>
   </tr>
   <tr>
     <td><b>AutoMod</b></td>
-    <td>Moderation engine with flexible rule sets</td>
+    <td>Rule-based moderation engine for auto enforcement</td>
     <td>Node.js • JSON</td>
+  </tr>
+  <tr>
+    <td><b>CommandCore</b></td>
+    <td>Scalable command handler with logging and cooldowns</td>
+    <td>Discord.js • TypeScript</td>
   </tr>
 </table>
 
@@ -84,7 +91,7 @@
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,express,mongodb,html,css,discord,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,express,mongodb,html,css,discord,github,git" />
 </p>
 
 ---
@@ -98,7 +105,14 @@
 
 ---
 
+<h2 align="center">⚡ Aesthetic Mode</h2>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/Y3UyyZ9FsfKm0/giphy.gif" width="70"/>
+  <img src="https://media.giphy.com/media/B6odR6JZ9bGu0/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/IbWcCMZ8f5IAI/giphy.gif" width="200" />
+</p>
+
+<p align="center">
   <br><i><strong style="color:#9B30FF;">Coding. Creating. Evolving.</strong></i>
 </p>
