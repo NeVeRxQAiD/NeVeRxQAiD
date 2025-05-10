@@ -7,9 +7,7 @@
 </p>
 ---
 
----
-
-## 🔧
+## 🔧 Skill & Support
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,cpp,bootstrap,tailwind,nodejs,github,git,vscode,figma" />
@@ -35,4 +33,4 @@
 ### Contact Me
 
 - Discord: `93zc`
-- Telegram: [xzanyarrrrrrrrr](https://www.snapchat.com/add/xzanyarrrrrrrrr?share_id=kmBFw0bQBls&locale=en-US)
+- SnapChat: [xzanyarrrrrrrrr](https://www.snapchat.com/add/xzanyarrrrrrrrr?share_id=kmBFw0bQBls&locale=en-US)
