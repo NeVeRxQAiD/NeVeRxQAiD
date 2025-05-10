@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=QAiDx93&label=Profile+Views&color=7B68EE&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/QAiDx93?label=Followers&style=for-the-badge&color=7B68EE" />
-  <img src="https://img.shields.io/github/stars/QAiDx93?label=Stars&style=for-the-badge&color=7B68EE" />
+  <img src="https://komarev.com/ghpvc/?username=Qaidx93&label=Profile+Views&color=7B68EE&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Qaidx93?label=Followers&style=for-the-badge&color=7B68EE" />
+  <img src="https://img.shields.io/github/stars/Qaidx93?label=Stars&style=for-the-badge&color=7B68EE" />
 </p>
 
 ---
@@ -17,8 +17,8 @@
 <h2 align="center"> <img src="https://cdn.discordapp.com/emojis/1370559713372012595.gif?v=1&size=48&quality=lossless "/> GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QAiDx93&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QAiDx93&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Qaidx93&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaidx93&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 <h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=QAiDx93&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Qaidx93&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 <h2 align="center"> <img src="https://cdn.discordapp.com/emojis/1296441816362651681.gif?v=1&size=48&quality=lossless "/> GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=QAiDx93&theme=darkhub&no-frame=true&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Qaidx93&theme=darkhub&no-frame=true&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
 </p>
 
 ---
