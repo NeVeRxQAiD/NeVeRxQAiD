@@ -17,7 +17,7 @@
 <h2 align="center"> <img src="https://cdn.discordapp.com/emojis/1370559713372012595.gif?v=1&size=48&quality=lossless "/> GitHub Stats</h2>
 
 <h1 align="center">
-  <img src="https://cdn.discordapp.com/attachments/1196559809881841675/1370557392173011005/966b5685dabfd979b040ec887a874a95.gif?ex=681fee8a&is=681e9d0a&hm=3aa946b365ffe4eb36f882ee4f8c1ced387e9abbf8c408c52ef1d8d2e25013aa&" width="400" />
+  <img src="https://cdn.discordapp.com/attachments/1196559809881841675/1370565639755796541/1ddc0f983210d1fd0e9f747fac00d159.gif?ex=681ff638&is=681ea4b8&hm=14df04ab97321119c615bf54f0c10b7fd98d79e98f03b666620fde708ed5e658&" width="400" />
 </h1>
 
 <p align="center">
