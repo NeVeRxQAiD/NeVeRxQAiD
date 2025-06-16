@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=9B30FF&center=true&vCenter=true&width=435&lines=Hi+I'm+QAiDx93;Welcome+to+my+Dark+Zone!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=9B30FF&center=true&vCenter=true&width=435&lines=Hi+I'm+NeVeRxQAiD;Welcome+to+my+Dark+Zone!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -17,8 +17,8 @@
 <h2 align="center"> <img src="https://cdn.discordapp.com/emojis/1370559713372012595.gif?v=1&size=48&quality=lossless "/> GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qaidx93&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaidx93&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NeVeRxQAiD&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeVeRxQAiD&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 <h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Qaidx93&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NeVeRxQAiD&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 <h2 align="center"> <img src="https://cdn.discordapp.com/emojis/1296441816362651681.gif?v=1&size=48&quality=lossless "/> GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Qaidx93&theme=darkhub&no-frame=true&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NeVeRxQAiD&theme=darkhub&no-frame=true&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
 </p>
 
 ---
